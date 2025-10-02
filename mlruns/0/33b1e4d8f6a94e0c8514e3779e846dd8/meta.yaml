@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/thamiamrani/Maestro/MLFlow/mlsflow-env/mlflow/examples/sklearn_elasticnet_wine/mlruns/0/33b1e4d8f6a94e0c8514e3779e846dd8/artifacts
+end_time: 1759326329322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33b1e4d8f6a94e0c8514e3779e846dd8
+run_name: caring-moose-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759326327385
+status: 3
+tags: []
+user_id: thamiamrani

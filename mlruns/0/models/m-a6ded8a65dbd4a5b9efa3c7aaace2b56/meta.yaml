@@ -1,0 +1,10 @@
+artifact_location: file:///Users/thamiamrani/Maestro/MLFlow/mlsflow-env/mlflow/examples/sklearn_elasticnet_wine/mlruns/0/models/m-a6ded8a65dbd4a5b9efa3c7aaace2b56/artifacts
+creation_timestamp: 1759326327415
+experiment_id: '0'
+last_updated_timestamp: 1759326329321
+model_id: m-a6ded8a65dbd4a5b9efa3c7aaace2b56
+model_type: null
+name: model
+source_run_id: 33b1e4d8f6a94e0c8514e3779e846dd8
+status: 2
+status_message: null

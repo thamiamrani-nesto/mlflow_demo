@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/thamiamrani/Maestro/MLFlow/mlsflow-env/mlflow/examples/sklearn_elasticnet_wine/mlruns/0/46e1a0dba85143c288f68b8ad056301d/artifacts
+end_time: 1759326342569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46e1a0dba85143c288f68b8ad056301d
+run_name: redolent-roo-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759326340821
+status: 3
+tags: []
+user_id: thamiamrani

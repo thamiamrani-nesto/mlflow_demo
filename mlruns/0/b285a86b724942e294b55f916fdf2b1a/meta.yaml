@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thamiamrani/Maestro/MLFlow/mlsflow-env/mlflow/examples/sklearn_elasticnet_wine/mlruns/0/b285a86b724942e294b55f916fdf2b1a/artifacts
+deleted_time: 1759352719651
+end_time: 1759327526998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b285a86b724942e294b55f916fdf2b1a
+run_name: luminous-bird-411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759327525857
+status: 3
+tags: []
+user_id: thamiamrani

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/thamiamrani/Maestro/MLFlow/mlsflow-env/mlflow/examples/sklearn_elasticnet_wine/mlruns/0/c2039e4f68444af58f3edc0a5a391c3b/artifacts
+end_time: 1759352630497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2039e4f68444af58f3edc0a5a391c3b
+run_name: adventurous-fawn-745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759352630272
+status: 3
+tags: []
+user_id: thamiamrani
